@@ -1,2 +1,2 @@
-# Old_CCipher
-An old Caesar Cipher C++ Script for Ethical Hacking Course 
+# Old CCipher Script
+An old Caesar Cipher C++ File for the decryption of an encrypted message assigned by the Ethical Hacking Course.

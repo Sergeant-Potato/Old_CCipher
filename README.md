@@ -1,6 +1,6 @@
 # Old CCipher
 <div align="center">
-<img src="img/meme.jpg" alt="logo" width="200" height="auto" />
+<img src="img/meme.jpg" alt="logo" width="600" height="200" />
 </div>
 
 ## Table of Contents
@@ -59,3 +59,5 @@ In all, the encrypted and decrypted messages are the following:
 - Polythecnic University of Puerto Rico: CECS 4210 (Ethical Hacking) Course. (WINTER 2019)
 - [Caesar cipher - Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)
 - [The Caesar cipher (video) - Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher)
+- [Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fme.me%2Fi%2Fcaesar-cipher-hash-hash-with-salt-b%25D1%2581rypt-quantum-encryption-has-583a246682c34003876df03e2d035b82&psig=AOvVaw0D0MtsQUlZsPJ8MbXUyVWY&ust=1649828843299000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJi8k8TpjfcCFQAAAAAdAAAAABAD)
+
